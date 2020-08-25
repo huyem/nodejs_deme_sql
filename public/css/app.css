@@ -1,0 +1,45 @@
+
+body{
+    background-color: aquamarine;
+    text-align: center;
+    margin: 0;
+    padding-left: 0;
+
+}
+
+.contrain{
+    width:1400px;
+    height: 900px;
+    background-color: white;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding: 30px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+input {
+    width: 84%;
+    height: auto;
+}
+button{
+    width: 15%;
+    height: auto;
+    float: right;
+}
+li{
+    text-align: left;
+    border: 1px solid black;
+    margin-top: 30px;
+    size: 60px;
+    font-size: 20px;
+    font-weight: 400;
+    list-style-type: none;
+    padding: 10px;
+}
+h1{
+    text-align: justify-all;
+}
